@@ -5,6 +5,7 @@
 # Funcionalidades: 
 * Estrutura semântica e código limpo
 * Arquivos HTML e CSS separados para uma melhor manutenção.
+* Meta Tags
 
 # Tecnologias utilizadas
 * HMTL - para o esqueleto do site
